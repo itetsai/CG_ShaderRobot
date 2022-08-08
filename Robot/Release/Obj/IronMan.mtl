@@ -1,0 +1,388 @@
+newmtl body:HD_Ironman_darksilver
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.20 0.20 0.20
+Ns 60.00
+newmtl body:HD_Ironman_silver
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.20 0.20 0.20
+Ns 60.00
+newmtl body:Iron_man_leg_gold
+illum 4
+Kd 0.60 0.48 0.14
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.50 0.50 0.50
+Ns 43.22
+newmtl body:Iron_man_leg_red
+illum 4
+Kd 0.40 0.05 0.05
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.50 0.50 0.50
+Ns 43.00
+newmtl body:lambert1
+illum 4
+Kd 0.40 0.40 0.40
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.48 0.48 0.48
+Ns 10.00
+newmtl body:wire_174186203
+illum 4
+Kd 0.68 0.73 0.80
+Ka 0.68 0.73 0.80
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.35 0.35 0.35
+Ns 32.00
+newmtl head:HD_Ironman_yellow
+illum 4
+Kd 1.00 1.00 1.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.20 0.20 0.20
+Ns 60.00
+newmtl head:Iron_man_leg_gold
+illum 4
+Kd 0.60 0.48 0.14
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.50 0.50 0.50
+Ns 43.22
+newmtl head:Iron_man_leg_red
+illum 4
+Kd 0.40 0.05 0.05
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.50 0.50 0.50
+Ns 43.00
+newmtl leftelbow:Iron_man_leg_gold
+illum 4
+Kd 0.60 0.48 0.14
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.50 0.50 0.50
+Ns 43.22
+newmtl leftelbow:Iron_man_leg_red
+illum 4
+Kd 0.40 0.05 0.05
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.50 0.50 0.50
+Ns 43.00
+newmtl leftfoot:HD_Ironman_black
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.20 0.20 0.20
+Ns 60.00
+newmtl leftfoot:HD_Ironman_silver
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.20 0.20 0.20
+Ns 60.00
+newmtl leftfoot:Iron_man_leg_gold
+illum 4
+Kd 0.60 0.48 0.14
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.50 0.50 0.50
+Ns 43.22
+newmtl leftfoot:Iron_man_leg_red
+illum 4
+Kd 0.40 0.05 0.05
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.50 0.50 0.50
+Ns 43.00
+newmtl leftfoot:___Default
+illum 4
+Kd 0.00 0.15 0.93
+Ka 0.00 0.15 0.93
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl leftfoot:wire_113134006
+illum 4
+Kd 0.44 0.53 0.02
+Ka 0.44 0.53 0.02
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.35 0.35 0.35
+Ns 32.00
+newmtl leftfoot:wire_174186203
+illum 4
+Kd 0.68 0.73 0.80
+Ka 0.68 0.73 0.80
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.35 0.35 0.35
+Ns 32.00
+newmtl lefthand:HD_Ironman_darksilver
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.20 0.20 0.20
+Ns 60.00
+newmtl lefthand:Iron_man_leg_red
+illum 4
+Kd 0.40 0.05 0.05
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.50 0.50 0.50
+Ns 43.00
+newmtl lefthand:wire_134006006
+illum 4
+Kd 0.53 0.02 0.02
+Ka 0.53 0.02 0.02
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.35 0.35 0.35
+Ns 32.00
+newmtl leftshoulder:Iron_man_leg_gold
+illum 4
+Kd 0.60 0.48 0.14
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.50 0.50 0.50
+Ns 43.22
+newmtl leftshoulder:Iron_man_leg_red
+illum 4
+Kd 0.40 0.05 0.05
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.50 0.50 0.50
+Ns 43.00
+newmtl leftthigh:Iron_man_leg_gold
+illum 4
+Kd 0.60 0.48 0.14
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.50 0.50 0.50
+Ns 43.22
+newmtl leftthigh:Iron_man_leg_red
+illum 4
+Kd 0.40 0.05 0.05
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.50 0.50 0.50
+Ns 43.00
+newmtl leftthigh:lambert1
+illum 4
+Kd 0.40 0.40 0.40
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.48 0.48 0.48
+Ns 10.00
+newmtl rightelbow:Iron_man_leg_gold
+illum 4
+Kd 0.60 0.48 0.14
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.50 0.50 0.50
+Ns 43.22
+newmtl rightelbow:Iron_man_leg_red
+illum 4
+Kd 0.40 0.05 0.05
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.50 0.50 0.50
+Ns 43.00
+newmtl rightfoot:HD_Ironman_black
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.20 0.20 0.20
+Ns 60.00
+newmtl rightfoot:HD_Ironman_silver
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.20 0.20 0.20
+Ns 60.00
+newmtl rightfoot:Iron_man_leg_gold
+illum 4
+Kd 0.60 0.48 0.14
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.50 0.50 0.50
+Ns 43.22
+newmtl rightfoot:Iron_man_leg_red
+illum 4
+Kd 0.40 0.05 0.05
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.50 0.50 0.50
+Ns 43.00
+newmtl rightfoot:___Default
+illum 4
+Kd 0.00 0.15 0.93
+Ka 0.00 0.15 0.93
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl rightfoot:wire_113134006
+illum 4
+Kd 0.44 0.53 0.02
+Ka 0.44 0.53 0.02
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.35 0.35 0.35
+Ns 32.00
+newmtl rightfoot:wire_174186203
+illum 4
+Kd 0.68 0.73 0.80
+Ka 0.68 0.73 0.80
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.35 0.35 0.35
+Ns 32.00
+newmtl righthand:HD_Ironman_darksilver
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.20 0.20 0.20
+Ns 60.00
+newmtl righthand:Iron_man_leg_red
+illum 4
+Kd 0.40 0.05 0.05
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.50 0.50 0.50
+Ns 43.00
+
+newmtl righthand:Iron_man_leg_gold
+illum 4
+Kd 0.60 0.48 0.14
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.50 0.50 0.50
+Ns 43.22
+
+newmtl rightshoulder:Iron_man_leg_gold
+illum 4
+Kd 0.60 0.48 0.14
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.50 0.50 0.50
+Ns 43.22
+newmtl rightshoulder:Iron_man_leg_red
+illum 4
+Kd 0.40 0.05 0.05
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.50 0.50 0.50
+Ns 43.00
+newmtl rightthigh:Iron_man_leg_gold
+illum 4
+Kd 0.60 0.48 0.14
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.50 0.50 0.50
+Ns 43.22
+newmtl rightthigh:Iron_man_leg_red
+illum 4
+Kd 0.40 0.05 0.05
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.50 0.50 0.50
+Ns 43.00
+newmtl rightthigh:lambert1
+illum 4
+Kd 0.40 0.40 0.40
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.48 0.48 0.48
+Ns 10.00
+newmtl waist:Iron_man_leg_red
+illum 4
+Kd 0.40 0.05 0.05
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.50 0.50 0.50
+Ns 43.00
+
+newmtl lambert3SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 2.00
+
+newmtl im:Iron_man_leg_gold
+illum 4
+Kd 0.60 0.48 0.14
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.50 0.50 0.50
+Ns 43.22
+newmtl im:Iron_man_leg_red
+illum 4
+Kd 0.40 0.05 0.05
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.50 0.50 0.50
+Ns 43.00
+newmtl im:lambert1
+illum 4
+Kd 0.40 0.40 0.40
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.48 0.48 0.48
+Ns 10.00

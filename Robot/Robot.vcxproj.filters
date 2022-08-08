@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="objloader.cpp" />
+    <ClCompile Include="targa.cpp" />
+    <ClCompile Include="TexBox.cpp">
+      <Filter>picture</Filter>
+    </ClCompile>
+    <ClCompile Include="TextureApp.cpp">
+      <Filter>picture</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="LoadShaders.h" />
+    <ClInclude Include="main.h" />
+    <ClInclude Include="objloader.hpp" />
+    <ClInclude Include="vgl.h" />
+    <ClInclude Include="TexBox.h">
+      <Filter>picture</Filter>
+    </ClInclude>
+    <ClInclude Include="TextureApp.h">
+      <Filter>picture</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="picture">
+      <UniqueIdentifier>{7d16ec03-bc19-44d8-a79b-8408676d3a8a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
