@@ -1,1 +1,145 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Platforms\Win32\PlatformToolsets\v141\Toolset.targets(34,5): error MSB8036: 找不到 Windows SDK 版本 10.0.16299.0。安裝所需的 Windows SDK 版本，或變更在專案屬性頁的 SDK 版本，或在方案上按一下滑鼠右鍵，並選取 [重定方案目標]。
+﻿  main.cpp
+c:\users\school\desktop\p\cg_shaderrobot\opencv2\flann\dist.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\users\school\desktop\p\cg_shaderrobot\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(208): note: 請參閱 'fopen' 的宣告
+c:\users\school\desktop\p\cg_shaderrobot\opencv2\legacy\compat.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\users\school\desktop\p\cg_shaderrobot\robot\main.cpp(34): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(208): note: 請參閱 'fopen' 的宣告
+c:\users\school\desktop\p\cg_shaderrobot\robot\main.cpp(173): warning C4101: 'ModeMenu': 未參考的區域變數
+c:\users\school\desktop\p\cg_shaderrobot\robot\main.cpp(269): warning C4305: '+=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\school\desktop\p\cg_shaderrobot\robot\main.cpp(274): warning C4305: '+=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\school\desktop\p\cg_shaderrobot\robot\main.cpp(277): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\school\desktop\p\cg_shaderrobot\robot\main.cpp(284): warning C4305: '-=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\school\desktop\p\cg_shaderrobot\robot\main.cpp(465): warning C4305: '+=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\school\desktop\p\cg_shaderrobot\robot\main.cpp(510): warning C4305: '+=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\school\desktop\p\cg_shaderrobot\robot\main.cpp(512): warning C4305: '-=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\school\desktop\p\cg_shaderrobot\robot\main.cpp(525): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\school\desktop\p\cg_shaderrobot\robot\main.cpp(526): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\school\desktop\p\cg_shaderrobot\robot\main.cpp(611): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\school\desktop\p\cg_shaderrobot\robot\main.cpp(625): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\school\desktop\p\cg_shaderrobot\robot\main.cpp(626): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\school\desktop\p\cg_shaderrobot\robot\main.cpp(698): warning C4018: '<': signed/unsigned 不相符
+c:\users\school\desktop\p\cg_shaderrobot\robot\main.cpp(733): warning C4018: '<': signed/unsigned 不相符
+c:\users\school\desktop\p\cg_shaderrobot\robot\main.cpp(832): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\school\desktop\p\cg_shaderrobot\robot\main.cpp(841): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\school\desktop\p\cg_shaderrobot\robot\main.cpp(829): warning C4101: 'roll': 未參考的區域變數
+c:\users\school\desktop\p\cg_shaderrobot\robot\main.cpp(829): warning C4101: 'pitch': 未參考的區域變數
+c:\users\school\desktop\p\cg_shaderrobot\robot\main.cpp(830): warning C4101: 'alpha': 未參考的區域變數
+c:\users\school\desktop\p\cg_shaderrobot\robot\main.cpp(830): warning C4101: 'beta': 未參考的區域變數
+c:\users\school\desktop\p\cg_shaderrobot\robot\main.cpp(829): warning C4101: 'yaw': 未參考的區域變數
+c:\users\school\desktop\p\cg_shaderrobot\robot\main.cpp(830): warning C4101: 'gamma': 未參考的區域變數
+c:\users\school\desktop\p\cg_shaderrobot\robot\main.cpp(829): warning C4101: 'r': 未參考的區域變數
+c:\users\school\desktop\p\cg_shaderrobot\robot\main.cpp(966): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\school\desktop\p\cg_shaderrobot\robot\main.cpp(994): warning C4305: '-=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\school\desktop\p\cg_shaderrobot\robot\main.cpp(997): warning C4305: '+=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  objloader.cpp
+c:\users\school\desktop\p\cg_shaderrobot\robot\objloader.cpp(39): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(208): note: 請參閱 'fopen' 的宣告
+c:\users\school\desktop\p\cg_shaderrobot\robot\objloader.cpp(50): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1197): note: 請參閱 'fscanf' 的宣告
+c:\users\school\desktop\p\cg_shaderrobot\robot\objloader.cpp(58): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1197): note: 請參閱 'fscanf' 的宣告
+c:\users\school\desktop\p\cg_shaderrobot\robot\objloader.cpp(63): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1197): note: 請參閱 'fscanf' 的宣告
+c:\users\school\desktop\p\cg_shaderrobot\robot\objloader.cpp(70): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1197): note: 請參閱 'fscanf' 的宣告
+c:\users\school\desktop\p\cg_shaderrobot\robot\objloader.cpp(75): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1197): note: 請參閱 'fscanf' 的宣告
+c:\users\school\desktop\p\cg_shaderrobot\robot\objloader.cpp(95): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1197): note: 請參閱 'fscanf' 的宣告
+c:\users\school\desktop\p\cg_shaderrobot\robot\objloader.cpp(134): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(208): note: 請參閱 'fopen' 的宣告
+c:\users\school\desktop\p\cg_shaderrobot\robot\objloader.cpp(142): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1197): note: 請參閱 'fscanf' 的宣告
+c:\users\school\desktop\p\cg_shaderrobot\robot\objloader.cpp(149): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1197): note: 請參閱 'fscanf' 的宣告
+c:\users\school\desktop\p\cg_shaderrobot\robot\objloader.cpp(153): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1197): note: 請參閱 'fscanf' 的宣告
+c:\users\school\desktop\p\cg_shaderrobot\robot\objloader.cpp(157): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1197): note: 請參閱 'fscanf' 的宣告
+c:\users\school\desktop\p\cg_shaderrobot\robot\objloader.cpp(161): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1197): note: 請參閱 'fscanf' 的宣告
+c:\users\school\desktop\p\cg_shaderrobot\robot\objloader.cpp(164): warning C4477: 'fscanf' : 格式字串 '%s' 需要 'char *' 類型的引數，但 variadic 引數 1 的類型為 'std::string'
+c:\users\school\desktop\p\cg_shaderrobot\robot\objloader.cpp(164): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1197): note: 請參閱 'fscanf' 的宣告
+  TextureApp.cpp
+c:\users\school\desktop\p\cg_shaderrobot\opencv2\flann\dist.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\users\school\desktop\p\cg_shaderrobot\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(208): note: 請參閱 'fopen' 的宣告
+c:\users\school\desktop\p\cg_shaderrobot\opencv2\legacy\compat.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\users\school\desktop\p\cg_shaderrobot\robot\textureapp.cpp(12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(208): note: 請參閱 'fopen' 的宣告
+c:\users\school\desktop\p\cg_shaderrobot\robot\textureapp.cpp(228): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(208): note: 請參閱 'fopen' 的宣告
+  TexBox.cpp
+  targa.cpp
+c:\users\school\desktop\p\cg_shaderrobot\robot\targa.cpp(110): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(208): note: 請參閱 'fopen' 的宣告
+  正在產生程式碼...
+LINK : warning LNK4098: 預設的程式庫 'LIBCMT' 與其他使用的程式庫衝突，請使用 /NODEFAULTLIB:library
+LINK : warning LNK4098: 預設的程式庫 'LIBCMTD' 與其他使用的程式庫衝突，請使用 /NODEFAULTLIB:library
+freeglut_staticd.lib(fg_callbacks.obj) : warning LNK4099: 找不到 PDB 'freeglut_static.pdb' (有 'freeglut_staticd.lib(fg_callbacks.obj)' 或位於 'C:\Users\school\Desktop\P\CG_ShaderRobot\Robot\Debug\freeglut_static.pdb')，當做沒有偵錯資訊，連結物件
+freeglut_staticd.lib(fg_cursor.obj) : warning LNK4099: 找不到 PDB 'freeglut_static.pdb' (有 'freeglut_staticd.lib(fg_cursor.obj)' 或位於 'C:\Users\school\Desktop\P\CG_ShaderRobot\Robot\Debug\freeglut_static.pdb')，當做沒有偵錯資訊，連結物件
+freeglut_staticd.lib(fg_display.obj) : warning LNK4099: 找不到 PDB 'freeglut_static.pdb' (有 'freeglut_staticd.lib(fg_display.obj)' 或位於 'C:\Users\school\Desktop\P\CG_ShaderRobot\Robot\Debug\freeglut_static.pdb')，當做沒有偵錯資訊，連結物件
+freeglut_staticd.lib(fg_ext.obj) : warning LNK4099: 找不到 PDB 'freeglut_static.pdb' (有 'freeglut_staticd.lib(fg_ext.obj)' 或位於 'C:\Users\school\Desktop\P\CG_ShaderRobot\Robot\Debug\freeglut_static.pdb')，當做沒有偵錯資訊，連結物件
+freeglut_staticd.lib(fg_font_data.obj) : warning LNK4099: 找不到 PDB 'freeglut_static.pdb' (有 'freeglut_staticd.lib(fg_font_data.obj)' 或位於 'C:\Users\school\Desktop\P\CG_ShaderRobot\Robot\Debug\freeglut_static.pdb')，當做沒有偵錯資訊，連結物件
+freeglut_staticd.lib(fg_gamemode.obj) : warning LNK4099: 找不到 PDB 'freeglut_static.pdb' (有 'freeglut_staticd.lib(fg_gamemode.obj)' 或位於 'C:\Users\school\Desktop\P\CG_ShaderRobot\Robot\Debug\freeglut_static.pdb')，當做沒有偵錯資訊，連結物件
+freeglut_staticd.lib(fg_geometry.obj) : warning LNK4099: 找不到 PDB 'freeglut_static.pdb' (有 'freeglut_staticd.lib(fg_geometry.obj)' 或位於 'C:\Users\school\Desktop\P\CG_ShaderRobot\Robot\Debug\freeglut_static.pdb')，當做沒有偵錯資訊，連結物件
+freeglut_staticd.lib(fg_gl2.obj) : warning LNK4099: 找不到 PDB 'freeglut_static.pdb' (有 'freeglut_staticd.lib(fg_gl2.obj)' 或位於 'C:\Users\school\Desktop\P\CG_ShaderRobot\Robot\Debug\freeglut_static.pdb')，當做沒有偵錯資訊，連結物件
+freeglut_staticd.lib(fg_init.obj) : warning LNK4099: 找不到 PDB 'freeglut_static.pdb' (有 'freeglut_staticd.lib(fg_init.obj)' 或位於 'C:\Users\school\Desktop\P\CG_ShaderRobot\Robot\Debug\freeglut_static.pdb')，當做沒有偵錯資訊，連結物件
+freeglut_staticd.lib(fg_input_devices.obj) : warning LNK4099: 找不到 PDB 'freeglut_static.pdb' (有 'freeglut_staticd.lib(fg_input_devices.obj)' 或位於 'C:\Users\school\Desktop\P\CG_ShaderRobot\Robot\Debug\freeglut_static.pdb')，當做沒有偵錯資訊，連結物件
+freeglut_staticd.lib(fg_joystick.obj) : warning LNK4099: 找不到 PDB 'freeglut_static.pdb' (有 'freeglut_staticd.lib(fg_joystick.obj)' 或位於 'C:\Users\school\Desktop\P\CG_ShaderRobot\Robot\Debug\freeglut_static.pdb')，當做沒有偵錯資訊，連結物件
+freeglut_staticd.lib(fg_main.obj) : warning LNK4099: 找不到 PDB 'freeglut_static.pdb' (有 'freeglut_staticd.lib(fg_main.obj)' 或位於 'C:\Users\school\Desktop\P\CG_ShaderRobot\Robot\Debug\freeglut_static.pdb')，當做沒有偵錯資訊，連結物件
+freeglut_staticd.lib(fg_misc.obj) : warning LNK4099: 找不到 PDB 'freeglut_static.pdb' (有 'freeglut_staticd.lib(fg_misc.obj)' 或位於 'C:\Users\school\Desktop\P\CG_ShaderRobot\Robot\Debug\freeglut_static.pdb')，當做沒有偵錯資訊，連結物件
+freeglut_staticd.lib(fg_overlay.obj) : warning LNK4099: 找不到 PDB 'freeglut_static.pdb' (有 'freeglut_staticd.lib(fg_overlay.obj)' 或位於 'C:\Users\school\Desktop\P\CG_ShaderRobot\Robot\Debug\freeglut_static.pdb')，當做沒有偵錯資訊，連結物件
+freeglut_staticd.lib(fg_spaceball.obj) : warning LNK4099: 找不到 PDB 'freeglut_static.pdb' (有 'freeglut_staticd.lib(fg_spaceball.obj)' 或位於 'C:\Users\school\Desktop\P\CG_ShaderRobot\Robot\Debug\freeglut_static.pdb')，當做沒有偵錯資訊，連結物件
+freeglut_staticd.lib(fg_state.obj) : warning LNK4099: 找不到 PDB 'freeglut_static.pdb' (有 'freeglut_staticd.lib(fg_state.obj)' 或位於 'C:\Users\school\Desktop\P\CG_ShaderRobot\Robot\Debug\freeglut_static.pdb')，當做沒有偵錯資訊，連結物件
+freeglut_staticd.lib(fg_stroke_mono_roman.obj) : warning LNK4099: 找不到 PDB 'freeglut_static.pdb' (有 'freeglut_staticd.lib(fg_stroke_mono_roman.obj)' 或位於 'C:\Users\school\Desktop\P\CG_ShaderRobot\Robot\Debug\freeglut_static.pdb')，當做沒有偵錯資訊，連結物件
+freeglut_staticd.lib(fg_stroke_roman.obj) : warning LNK4099: 找不到 PDB 'freeglut_static.pdb' (有 'freeglut_staticd.lib(fg_stroke_roman.obj)' 或位於 'C:\Users\school\Desktop\P\CG_ShaderRobot\Robot\Debug\freeglut_static.pdb')，當做沒有偵錯資訊，連結物件
+freeglut_staticd.lib(fg_structure.obj) : warning LNK4099: 找不到 PDB 'freeglut_static.pdb' (有 'freeglut_staticd.lib(fg_structure.obj)' 或位於 'C:\Users\school\Desktop\P\CG_ShaderRobot\Robot\Debug\freeglut_static.pdb')，當做沒有偵錯資訊，連結物件
+freeglut_staticd.lib(fg_teapot.obj) : warning LNK4099: 找不到 PDB 'freeglut_static.pdb' (有 'freeglut_staticd.lib(fg_teapot.obj)' 或位於 'C:\Users\school\Desktop\P\CG_ShaderRobot\Robot\Debug\freeglut_static.pdb')，當做沒有偵錯資訊，連結物件
+freeglut_staticd.lib(fg_videoresize.obj) : warning LNK4099: 找不到 PDB 'freeglut_static.pdb' (有 'freeglut_staticd.lib(fg_videoresize.obj)' 或位於 'C:\Users\school\Desktop\P\CG_ShaderRobot\Robot\Debug\freeglut_static.pdb')，當做沒有偵錯資訊，連結物件
+freeglut_staticd.lib(fg_window.obj) : warning LNK4099: 找不到 PDB 'freeglut_static.pdb' (有 'freeglut_staticd.lib(fg_window.obj)' 或位於 'C:\Users\school\Desktop\P\CG_ShaderRobot\Robot\Debug\freeglut_static.pdb')，當做沒有偵錯資訊，連結物件
+freeglut_staticd.lib(fg_font.obj) : warning LNK4099: 找不到 PDB 'freeglut_static.pdb' (有 'freeglut_staticd.lib(fg_font.obj)' 或位於 'C:\Users\school\Desktop\P\CG_ShaderRobot\Robot\Debug\freeglut_static.pdb')，當做沒有偵錯資訊，連結物件
+freeglut_staticd.lib(fg_menu.obj) : warning LNK4099: 找不到 PDB 'freeglut_static.pdb' (有 'freeglut_staticd.lib(fg_menu.obj)' 或位於 'C:\Users\school\Desktop\P\CG_ShaderRobot\Robot\Debug\freeglut_static.pdb')，當做沒有偵錯資訊，連結物件
+freeglut_staticd.lib(fg_cursor_mswin.obj) : warning LNK4099: 找不到 PDB 'freeglut_static.pdb' (有 'freeglut_staticd.lib(fg_cursor_mswin.obj)' 或位於 'C:\Users\school\Desktop\P\CG_ShaderRobot\Robot\Debug\freeglut_static.pdb')，當做沒有偵錯資訊，連結物件
+freeglut_staticd.lib(fg_display_mswin.obj) : warning LNK4099: 找不到 PDB 'freeglut_static.pdb' (有 'freeglut_staticd.lib(fg_display_mswin.obj)' 或位於 'C:\Users\school\Desktop\P\CG_ShaderRobot\Robot\Debug\freeglut_static.pdb')，當做沒有偵錯資訊，連結物件
+freeglut_staticd.lib(fg_ext_mswin.obj) : warning LNK4099: 找不到 PDB 'freeglut_static.pdb' (有 'freeglut_staticd.lib(fg_ext_mswin.obj)' 或位於 'C:\Users\school\Desktop\P\CG_ShaderRobot\Robot\Debug\freeglut_static.pdb')，當做沒有偵錯資訊，連結物件
+freeglut_staticd.lib(fg_gamemode_mswin.obj) : warning LNK4099: 找不到 PDB 'freeglut_static.pdb' (有 'freeglut_staticd.lib(fg_gamemode_mswin.obj)' 或位於 'C:\Users\school\Desktop\P\CG_ShaderRobot\Robot\Debug\freeglut_static.pdb')，當做沒有偵錯資訊，連結物件
+freeglut_staticd.lib(fg_init_mswin.obj) : warning LNK4099: 找不到 PDB 'freeglut_static.pdb' (有 'freeglut_staticd.lib(fg_init_mswin.obj)' 或位於 'C:\Users\school\Desktop\P\CG_ShaderRobot\Robot\Debug\freeglut_static.pdb')，當做沒有偵錯資訊，連結物件
+freeglut_staticd.lib(fg_input_devices_mswin.obj) : warning LNK4099: 找不到 PDB 'freeglut_static.pdb' (有 'freeglut_staticd.lib(fg_input_devices_mswin.obj)' 或位於 'C:\Users\school\Desktop\P\CG_ShaderRobot\Robot\Debug\freeglut_static.pdb')，當做沒有偵錯資訊，連結物件
+freeglut_staticd.lib(fg_joystick_mswin.obj) : warning LNK4099: 找不到 PDB 'freeglut_static.pdb' (有 'freeglut_staticd.lib(fg_joystick_mswin.obj)' 或位於 'C:\Users\school\Desktop\P\CG_ShaderRobot\Robot\Debug\freeglut_static.pdb')，當做沒有偵錯資訊，連結物件
+freeglut_staticd.lib(fg_main_mswin.obj) : warning LNK4099: 找不到 PDB 'freeglut_static.pdb' (有 'freeglut_staticd.lib(fg_main_mswin.obj)' 或位於 'C:\Users\school\Desktop\P\CG_ShaderRobot\Robot\Debug\freeglut_static.pdb')，當做沒有偵錯資訊，連結物件
+freeglut_staticd.lib(fg_menu_mswin.obj) : warning LNK4099: 找不到 PDB 'freeglut_static.pdb' (有 'freeglut_staticd.lib(fg_menu_mswin.obj)' 或位於 'C:\Users\school\Desktop\P\CG_ShaderRobot\Robot\Debug\freeglut_static.pdb')，當做沒有偵錯資訊，連結物件
+freeglut_staticd.lib(fg_spaceball_mswin.obj) : warning LNK4099: 找不到 PDB 'freeglut_static.pdb' (有 'freeglut_staticd.lib(fg_spaceball_mswin.obj)' 或位於 'C:\Users\school\Desktop\P\CG_ShaderRobot\Robot\Debug\freeglut_static.pdb')，當做沒有偵錯資訊，連結物件
+freeglut_staticd.lib(fg_state_mswin.obj) : warning LNK4099: 找不到 PDB 'freeglut_static.pdb' (有 'freeglut_staticd.lib(fg_state_mswin.obj)' 或位於 'C:\Users\school\Desktop\P\CG_ShaderRobot\Robot\Debug\freeglut_static.pdb')，當做沒有偵錯資訊，連結物件
+freeglut_staticd.lib(fg_structure_mswin.obj) : warning LNK4099: 找不到 PDB 'freeglut_static.pdb' (有 'freeglut_staticd.lib(fg_structure_mswin.obj)' 或位於 'C:\Users\school\Desktop\P\CG_ShaderRobot\Robot\Debug\freeglut_static.pdb')，當做沒有偵錯資訊，連結物件
+freeglut_staticd.lib(fg_window_mswin.obj) : warning LNK4099: 找不到 PDB 'freeglut_static.pdb' (有 'freeglut_staticd.lib(fg_window_mswin.obj)' 或位於 'C:\Users\school\Desktop\P\CG_ShaderRobot\Robot\Debug\freeglut_static.pdb')，當做沒有偵錯資訊，連結物件
+freeglut_staticd.lib(xparsegeometry_repl.obj) : warning LNK4099: 找不到 PDB 'freeglut_static.pdb' (有 'freeglut_staticd.lib(xparsegeometry_repl.obj)' 或位於 'C:\Users\school\Desktop\P\CG_ShaderRobot\Robot\Debug\freeglut_static.pdb')，當做沒有偵錯資訊，連結物件
+glew32sd.lib(glew.obj) : warning LNK4099: 找不到 PDB 'glew_static.pdb' (有 'glew32sd.lib(glew.obj)' 或位於 'C:\Users\school\Desktop\P\CG_ShaderRobot\Robot\Debug\glew_static.pdb')，當做沒有偵錯資訊，連結物件
+gltools.lib(GLBatch.obj) : warning LNK4099: 找不到 PDB 'gltools.pdb' (有 'gltools.lib(GLBatch.obj)' 或位於 'C:\Users\school\Desktop\P\CG_ShaderRobot\Robot\Debug\gltools.pdb')，當做沒有偵錯資訊，連結物件
+gltools.lib(GLTools.obj) : warning LNK4099: 找不到 PDB 'gltools.pdb' (有 'gltools.lib(GLTools.obj)' 或位於 'C:\Users\school\Desktop\P\CG_ShaderRobot\Robot\Debug\gltools.pdb')，當做沒有偵錯資訊，連結物件
+gltools.lib(GLTriangleBatch.obj) : warning LNK4099: 找不到 PDB 'gltools.pdb' (有 'gltools.lib(GLTriangleBatch.obj)' 或位於 'C:\Users\school\Desktop\P\CG_ShaderRobot\Robot\Debug\gltools.pdb')，當做沒有偵錯資訊，連結物件
+zlibd.lib(adler32.obj) : warning LNK4099: 找不到 PDB 'zlib.pdb' (有 'zlibd.lib(adler32.obj)' 或位於 'C:\Users\school\Desktop\P\CG_ShaderRobot\Robot\Debug\zlib.pdb')，當做沒有偵錯資訊，連結物件
+zlibd.lib(crc32.obj) : warning LNK4099: 找不到 PDB 'zlib.pdb' (有 'zlibd.lib(crc32.obj)' 或位於 'C:\Users\school\Desktop\P\CG_ShaderRobot\Robot\Debug\zlib.pdb')，當做沒有偵錯資訊，連結物件
+zlibd.lib(deflate.obj) : warning LNK4099: 找不到 PDB 'zlib.pdb' (有 'zlibd.lib(deflate.obj)' 或位於 'C:\Users\school\Desktop\P\CG_ShaderRobot\Robot\Debug\zlib.pdb')，當做沒有偵錯資訊，連結物件
+zlibd.lib(inffast.obj) : warning LNK4099: 找不到 PDB 'zlib.pdb' (有 'zlibd.lib(inffast.obj)' 或位於 'C:\Users\school\Desktop\P\CG_ShaderRobot\Robot\Debug\zlib.pdb')，當做沒有偵錯資訊，連結物件
+zlibd.lib(inflate.obj) : warning LNK4099: 找不到 PDB 'zlib.pdb' (有 'zlibd.lib(inflate.obj)' 或位於 'C:\Users\school\Desktop\P\CG_ShaderRobot\Robot\Debug\zlib.pdb')，當做沒有偵錯資訊，連結物件
+zlibd.lib(inftrees.obj) : warning LNK4099: 找不到 PDB 'zlib.pdb' (有 'zlibd.lib(inftrees.obj)' 或位於 'C:\Users\school\Desktop\P\CG_ShaderRobot\Robot\Debug\zlib.pdb')，當做沒有偵錯資訊，連結物件
+zlibd.lib(trees.obj) : warning LNK4099: 找不到 PDB 'zlib.pdb' (有 'zlibd.lib(trees.obj)' 或位於 'C:\Users\school\Desktop\P\CG_ShaderRobot\Robot\Debug\zlib.pdb')，當做沒有偵錯資訊，連結物件
+zlibd.lib(zutil.obj) : warning LNK4099: 找不到 PDB 'zlib.pdb' (有 'zlibd.lib(zutil.obj)' 或位於 'C:\Users\school\Desktop\P\CG_ShaderRobot\Robot\Debug\zlib.pdb')，當做沒有偵錯資訊，連結物件
+libpng16d.lib(png.obj) : warning LNK4099: 找不到 PDB 'libpng.pdb' (有 'libpng16d.lib(png.obj)' 或位於 'C:\Users\school\Desktop\P\CG_ShaderRobot\Robot\Debug\libpng.pdb')，當做沒有偵錯資訊，連結物件
+libpng16d.lib(pngerror.obj) : warning LNK4099: 找不到 PDB 'libpng.pdb' (有 'libpng16d.lib(pngerror.obj)' 或位於 'C:\Users\school\Desktop\P\CG_ShaderRobot\Robot\Debug\libpng.pdb')，當做沒有偵錯資訊，連結物件
+libpng16d.lib(pngget.obj) : warning LNK4099: 找不到 PDB 'libpng.pdb' (有 'libpng16d.lib(pngget.obj)' 或位於 'C:\Users\school\Desktop\P\CG_ShaderRobot\Robot\Debug\libpng.pdb')，當做沒有偵錯資訊，連結物件
+libpng16d.lib(pngmem.obj) : warning LNK4099: 找不到 PDB 'libpng.pdb' (有 'libpng16d.lib(pngmem.obj)' 或位於 'C:\Users\school\Desktop\P\CG_ShaderRobot\Robot\Debug\libpng.pdb')，當做沒有偵錯資訊，連結物件
+libpng16d.lib(pngread.obj) : warning LNK4099: 找不到 PDB 'libpng.pdb' (有 'libpng16d.lib(pngread.obj)' 或位於 'C:\Users\school\Desktop\P\CG_ShaderRobot\Robot\Debug\libpng.pdb')，當做沒有偵錯資訊，連結物件
+libpng16d.lib(pngrio.obj) : warning LNK4099: 找不到 PDB 'libpng.pdb' (有 'libpng16d.lib(pngrio.obj)' 或位於 'C:\Users\school\Desktop\P\CG_ShaderRobot\Robot\Debug\libpng.pdb')，當做沒有偵錯資訊，連結物件
+libpng16d.lib(pngrtran.obj) : warning LNK4099: 找不到 PDB 'libpng.pdb' (有 'libpng16d.lib(pngrtran.obj)' 或位於 'C:\Users\school\Desktop\P\CG_ShaderRobot\Robot\Debug\libpng.pdb')，當做沒有偵錯資訊，連結物件
+libpng16d.lib(pngrutil.obj) : warning LNK4099: 找不到 PDB 'libpng.pdb' (有 'libpng16d.lib(pngrutil.obj)' 或位於 'C:\Users\school\Desktop\P\CG_ShaderRobot\Robot\Debug\libpng.pdb')，當做沒有偵錯資訊，連結物件
+libpng16d.lib(pngset.obj) : warning LNK4099: 找不到 PDB 'libpng.pdb' (有 'libpng16d.lib(pngset.obj)' 或位於 'C:\Users\school\Desktop\P\CG_ShaderRobot\Robot\Debug\libpng.pdb')，當做沒有偵錯資訊，連結物件
+libpng16d.lib(pngtrans.obj) : warning LNK4099: 找不到 PDB 'libpng.pdb' (有 'libpng16d.lib(pngtrans.obj)' 或位於 'C:\Users\school\Desktop\P\CG_ShaderRobot\Robot\Debug\libpng.pdb')，當做沒有偵錯資訊，連結物件
+libpng16d.lib(pngwio.obj) : warning LNK4099: 找不到 PDB 'libpng.pdb' (有 'libpng16d.lib(pngwio.obj)' 或位於 'C:\Users\school\Desktop\P\CG_ShaderRobot\Robot\Debug\libpng.pdb')，當做沒有偵錯資訊，連結物件
+libpng16d.lib(pngwrite.obj) : warning LNK4099: 找不到 PDB 'libpng.pdb' (有 'libpng16d.lib(pngwrite.obj)' 或位於 'C:\Users\school\Desktop\P\CG_ShaderRobot\Robot\Debug\libpng.pdb')，當做沒有偵錯資訊，連結物件
+libpng16d.lib(pngwtran.obj) : warning LNK4099: 找不到 PDB 'libpng.pdb' (有 'libpng16d.lib(pngwtran.obj)' 或位於 'C:\Users\school\Desktop\P\CG_ShaderRobot\Robot\Debug\libpng.pdb')，當做沒有偵錯資訊，連結物件
+libpng16d.lib(pngwutil.obj) : warning LNK4099: 找不到 PDB 'libpng.pdb' (有 'libpng16d.lib(pngwutil.obj)' 或位於 'C:\Users\school\Desktop\P\CG_ShaderRobot\Robot\Debug\libpng.pdb')，當做沒有偵錯資訊，連結物件
+  Robot.vcxproj -> C:\Users\school\Desktop\P\CG_ShaderRobot\Robot\Debug\Robot.exe
