@@ -3,8 +3,7 @@ NTUST CSIE Computer Graphics Final Project
 
 ![](https://github.com/itetsai/CG_ShaderRobot/blob/main/img/static.jpg)
 
-![](https://github.com/itetsai/CG_ShaderRobot/blob/main/img/veronoi.gif)![](https://github.com/itetsai/CG_ShaderRobot/blob/main/img/fire.gif)
-
+<img src="img/veronoi.gif" alt="Cover" width="50%"/><img src="img/fire.gif" alt="Cover" width="50%"/>
 
 
 
